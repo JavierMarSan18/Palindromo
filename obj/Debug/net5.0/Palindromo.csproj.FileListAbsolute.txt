@@ -1,0 +1,16 @@
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\bin\Debug\net5.0\Palindromo.exe
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\bin\Debug\net5.0\Palindromo.deps.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\bin\Debug\net5.0\Palindromo.runtimeconfig.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\bin\Debug\net5.0\Palindromo.runtimeconfig.dev.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\bin\Debug\net5.0\Palindromo.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\bin\Debug\net5.0\ref\Palindromo.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\bin\Debug\net5.0\Palindromo.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\Palindromo.csprojAssemblyReference.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\Palindromo.AssemblyInfo.cs
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\Palindromo.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\ref\Palindromo.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\Palindromo.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Palindromo\obj\Debug\net5.0\Palindromo.genruntimeconfig.cache
